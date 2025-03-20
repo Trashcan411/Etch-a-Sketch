@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+.div {
+    display: flex;
+    flex-direction: row;
+}
+
+.divc {
+    border: 2px;
+    background-color: white;
+    height: 50px;
+    width: 50px;
+}
