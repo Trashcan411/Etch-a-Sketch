@@ -1,17 +1,19 @@
 .container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
     background-color: aqua;
 }
 
 .div {
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
 
 .divc {
     border: 2px;
+    height: 30px;
+    width: 30px;
     background-color: white;
-    height: 50px;
-    width: 50px;
 }
